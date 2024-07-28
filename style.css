@@ -1,0 +1,48 @@
+/* Basic styles for the body */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+
+/* Style for the main heading */
+h1 {
+    color: #333;
+    text-align: center;
+}
+
+/* Style for the subheading */
+h2 {
+    color: #555;
+    margin-top: 20px;
+}
+
+/* Style for the paragraph */
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #666;
+}
+
+/* Style for the unordered list */
+ul {
+    list-style-type: square;
+    padding-left: 20px;
+}
+
+/* Style for list items */
+li {
+    font-size: 16px;
+    color: #444;
+}
+
+/* Style for the link */
+a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
